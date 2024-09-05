@@ -5,7 +5,7 @@ This is a personal portfolio website built using **HTML**, **CSS**, and **JavaSc
 
 ## Project Structure
 ```bash
-portfolio-website/
+portfolio/
 │
 ├── index.html            # Main HTML file
 ├── styles.css            # CSS styles
